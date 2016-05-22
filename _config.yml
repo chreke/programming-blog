@@ -1,0 +1,12 @@
+# Site settings
+title: Way of the Coder
+#email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Follow me on Twitter!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://johnytex.github.io" # the base hostname & protocol for your site
+twitter_username: chreke
+#github_username:  johytex
+
+# Build settings
+markdown: kramdown
