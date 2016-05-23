@@ -10,3 +10,5 @@ twitter_username: chreke
 
 # Build settings
 markdown: kramdown
+
+permalink: /:title.html
